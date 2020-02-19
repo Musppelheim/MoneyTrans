@@ -15,6 +15,9 @@
 
 1. 100% успешных тестов
 
+![Image alt](https://github.com/Musppelheim/MoneyTrans/blob/master/javcode.PNG)
+![Image alt](https://github.com/Musppelheim/MoneyTrans/blob/master/moneytrans.PNG)
+
 ## Общие рекомендации
 
 None.
